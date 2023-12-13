@@ -1,0 +1,88 @@
+C:\Users\MYR\Desktop\3170PROJ\前端\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+C:\Users\MYR\Desktop\3170PROJ\前端\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Users\MYR\Desktop\3170PROJ\前端\LibrarySystem\bin\Debug\LibrarySystem.pdb
+C:\Users\MYR\Desktop\3170PROJ\前端\LibrarySystem\obj\Debug\LibrarySystem.csproj.AssemblyReference.cache
+C:\Users\MYR\Desktop\3170PROJ\前端\LibrarySystem\obj\Debug\LibrarySystem.LoginForm.resources
+C:\Users\MYR\Desktop\3170PROJ\前端\LibrarySystem\obj\Debug\LibrarySystem.Properties.Resources.resources
+C:\Users\MYR\Desktop\3170PROJ\前端\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.cache
+C:\Users\MYR\Desktop\3170PROJ\前端\LibrarySystem\obj\Debug\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\MYR\Desktop\3170PROJ\前端\LibrarySystem\obj\Debug\LibrarySystem.exe
+C:\Users\MYR\Desktop\3170PROJ\前端\LibrarySystem\obj\Debug\LibrarySystem.pdb
+C:\Users\MYR\Desktop\3170PROJ\前端\LibrarySystem\obj\Debug\LibrarySystem.Borrow.resources
+C:\Users\MYR\Desktop\3170PROJ\前端\LibrarySystem\obj\Debug\LibrarySystem.UserInfo.resources
+C:\Users\MYR\Desktop\3170PROJ\前端\LibrarySystem\obj\Debug\LibrarySystem.SearchBox.resources
+C:\Users\MYR\Desktop\3170PROJ\前端\LibrarySystem\obj\Debug\LibrarySystem.HomePage.resources
+C:\Users\MYR\Desktop\3170PROJ\前端\LibrarySystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MYR\Desktop\3170PROJ\前端\LibrarySystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MYR\Desktop\3170PROJ\前端\LibrarySystem\obj\Debug\LibrarySystem.csproj.CopyComplete
+C:\Users\MYR\Desktop\前端\前端\LibrarySystem\obj\Debug\LibrarySystem.csproj.AssemblyReference.cache
+C:\Users\MYR\Desktop\前端\前端\LibrarySystem\obj\Debug\LibrarySystem.HomePage.resources
+C:\Users\MYR\Desktop\前端\前端\LibrarySystem\obj\Debug\LibrarySystem.Borrow.resources
+C:\Users\MYR\Desktop\前端\前端\LibrarySystem\obj\Debug\LibrarySystem.LoginForm.resources
+C:\Users\MYR\Desktop\前端\前端\LibrarySystem\obj\Debug\LibrarySystem.Manage.resources
+C:\Users\MYR\Desktop\前端\前端\LibrarySystem\obj\Debug\LibrarySystem.Properties.Resources.resources
+C:\Users\MYR\Desktop\前端\前端\LibrarySystem\obj\Debug\LibrarySystem.Register.resources
+C:\Users\MYR\Desktop\前端\前端\LibrarySystem\obj\Debug\LibrarySystem.SearchBox.resources
+C:\Users\MYR\Desktop\前端\前端\LibrarySystem\obj\Debug\LibrarySystem.UserInfo.resources
+C:\Users\MYR\Desktop\前端\前端\LibrarySystem\obj\Debug\LibrarySystem.Borrow.byn-ER.resources
+C:\Users\MYR\Desktop\前端\前端\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.cache
+C:\Users\MYR\Desktop\前端\前端\LibrarySystem\obj\Debug\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\MYR\Desktop\前端\前端\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+C:\Users\MYR\Desktop\前端\前端\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Users\MYR\Desktop\前端\前端\LibrarySystem\bin\Debug\LibrarySystem.pdb
+C:\Users\MYR\Desktop\前端\前端\LibrarySystem\bin\Debug\byn-ER\LibrarySystem.resources.dll
+C:\Users\MYR\Desktop\前端\前端\LibrarySystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MYR\Desktop\前端\前端\LibrarySystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MYR\Desktop\前端\前端\LibrarySystem\obj\Debug\byn-ER\LibrarySystem.resources.dll
+C:\Users\MYR\Desktop\前端\前端\LibrarySystem\obj\Debug\LibrarySystem.csproj.CopyComplete
+C:\Users\MYR\Desktop\前端\前端\LibrarySystem\obj\Debug\LibrarySystem.exe
+C:\Users\MYR\Desktop\前端\前端\LibrarySystem\obj\Debug\LibrarySystem.pdb
+E:\WeChat\WeChat Files\wxid_7imz1md1fim222\FileStorage\File\2023-12\12.5版本\前端\前端\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+E:\WeChat\WeChat Files\wxid_7imz1md1fim222\FileStorage\File\2023-12\12.5版本\前端\前端\LibrarySystem\bin\Debug\LibrarySystem.exe
+E:\WeChat\WeChat Files\wxid_7imz1md1fim222\FileStorage\File\2023-12\12.5版本\前端\前端\LibrarySystem\bin\Debug\LibrarySystem.pdb
+E:\WeChat\WeChat Files\wxid_7imz1md1fim222\FileStorage\File\2023-12\12.5版本\前端\前端\LibrarySystem\bin\Debug\byn-ER\LibrarySystem.resources.dll
+E:\WeChat\WeChat Files\wxid_7imz1md1fim222\FileStorage\File\2023-12\12.5版本\前端\前端\LibrarySystem\bin\Debug\Newtonsoft.Json.dll
+E:\WeChat\WeChat Files\wxid_7imz1md1fim222\FileStorage\File\2023-12\12.5版本\前端\前端\LibrarySystem\bin\Debug\Newtonsoft.Json.xml
+E:\WeChat\WeChat Files\wxid_7imz1md1fim222\FileStorage\File\2023-12\12.5版本\前端\前端\LibrarySystem\obj\Debug\LibrarySystem.csproj.AssemblyReference.cache
+E:\WeChat\WeChat Files\wxid_7imz1md1fim222\FileStorage\File\2023-12\12.5版本\前端\前端\LibrarySystem\obj\Debug\LibrarySystem.HomePage.resources
+E:\WeChat\WeChat Files\wxid_7imz1md1fim222\FileStorage\File\2023-12\12.5版本\前端\前端\LibrarySystem\obj\Debug\LibrarySystem.Borrow.resources
+E:\WeChat\WeChat Files\wxid_7imz1md1fim222\FileStorage\File\2023-12\12.5版本\前端\前端\LibrarySystem\obj\Debug\LibrarySystem.LoginForm.resources
+E:\WeChat\WeChat Files\wxid_7imz1md1fim222\FileStorage\File\2023-12\12.5版本\前端\前端\LibrarySystem\obj\Debug\LibrarySystem.Manage.resources
+E:\WeChat\WeChat Files\wxid_7imz1md1fim222\FileStorage\File\2023-12\12.5版本\前端\前端\LibrarySystem\obj\Debug\LibrarySystem.Properties.Resources.resources
+E:\WeChat\WeChat Files\wxid_7imz1md1fim222\FileStorage\File\2023-12\12.5版本\前端\前端\LibrarySystem\obj\Debug\LibrarySystem.Register.resources
+E:\WeChat\WeChat Files\wxid_7imz1md1fim222\FileStorage\File\2023-12\12.5版本\前端\前端\LibrarySystem\obj\Debug\LibrarySystem.SearchBox.resources
+E:\WeChat\WeChat Files\wxid_7imz1md1fim222\FileStorage\File\2023-12\12.5版本\前端\前端\LibrarySystem\obj\Debug\LibrarySystem.UserInfo.resources
+E:\WeChat\WeChat Files\wxid_7imz1md1fim222\FileStorage\File\2023-12\12.5版本\前端\前端\LibrarySystem\obj\Debug\LibrarySystem.Borrow.byn-ER.resources
+E:\WeChat\WeChat Files\wxid_7imz1md1fim222\FileStorage\File\2023-12\12.5版本\前端\前端\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.cache
+E:\WeChat\WeChat Files\wxid_7imz1md1fim222\FileStorage\File\2023-12\12.5版本\前端\前端\LibrarySystem\obj\Debug\LibrarySystem.csproj.CoreCompileInputs.cache
+E:\WeChat\WeChat Files\wxid_7imz1md1fim222\FileStorage\File\2023-12\12.5版本\前端\前端\LibrarySystem\obj\Debug\byn-ER\LibrarySystem.resources.dll
+E:\WeChat\WeChat Files\wxid_7imz1md1fim222\FileStorage\File\2023-12\12.5版本\前端\前端\LibrarySystem\obj\Debug\LibrarySystem.csproj.CopyComplete
+E:\WeChat\WeChat Files\wxid_7imz1md1fim222\FileStorage\File\2023-12\12.5版本\前端\前端\LibrarySystem\obj\Debug\LibrarySystem.exe
+E:\WeChat\WeChat Files\wxid_7imz1md1fim222\FileStorage\File\2023-12\12.5版本\前端\前端\LibrarySystem\obj\Debug\LibrarySystem.pdb
+C:\Users\MYR\Desktop\3170PROJ\前端\LibrarySystem\bin\Debug\byn-ER\LibrarySystem.resources.dll
+C:\Users\MYR\Desktop\3170PROJ\前端\LibrarySystem\obj\Debug\LibrarySystem.Manage.resources
+C:\Users\MYR\Desktop\3170PROJ\前端\LibrarySystem\obj\Debug\LibrarySystem.Register.resources
+C:\Users\MYR\Desktop\3170PROJ\前端\LibrarySystem\obj\Debug\LibrarySystem.Borrow.byn-ER.resources
+C:\Users\MYR\Desktop\3170PROJ\前端\LibrarySystem\obj\Debug\byn-ER\LibrarySystem.resources.dll
+C:\Users\Lenovo\Desktop\git_3170\3170PROJ\前端\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+C:\Users\Lenovo\Desktop\git_3170\3170PROJ\前端\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Users\Lenovo\Desktop\git_3170\3170PROJ\前端\LibrarySystem\bin\Debug\LibrarySystem.pdb
+C:\Users\Lenovo\Desktop\git_3170\3170PROJ\前端\LibrarySystem\bin\Debug\byn-ER\LibrarySystem.resources.dll
+C:\Users\Lenovo\Desktop\git_3170\3170PROJ\前端\LibrarySystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\git_3170\3170PROJ\前端\LibrarySystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\git_3170\3170PROJ\前端\LibrarySystem\obj\Debug\LibrarySystem.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\git_3170\3170PROJ\前端\LibrarySystem\obj\Debug\LibrarySystem.HomePage.resources
+C:\Users\Lenovo\Desktop\git_3170\3170PROJ\前端\LibrarySystem\obj\Debug\LibrarySystem.Borrow.resources
+C:\Users\Lenovo\Desktop\git_3170\3170PROJ\前端\LibrarySystem\obj\Debug\LibrarySystem.LoginForm.resources
+C:\Users\Lenovo\Desktop\git_3170\3170PROJ\前端\LibrarySystem\obj\Debug\LibrarySystem.Manage.resources
+C:\Users\Lenovo\Desktop\git_3170\3170PROJ\前端\LibrarySystem\obj\Debug\LibrarySystem.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\git_3170\3170PROJ\前端\LibrarySystem\obj\Debug\LibrarySystem.Register.resources
+C:\Users\Lenovo\Desktop\git_3170\3170PROJ\前端\LibrarySystem\obj\Debug\LibrarySystem.SearchBox.resources
+C:\Users\Lenovo\Desktop\git_3170\3170PROJ\前端\LibrarySystem\obj\Debug\LibrarySystem.UserInfo.resources
+C:\Users\Lenovo\Desktop\git_3170\3170PROJ\前端\LibrarySystem\obj\Debug\LibrarySystem.Borrow.byn-ER.resources
+C:\Users\Lenovo\Desktop\git_3170\3170PROJ\前端\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\git_3170\3170PROJ\前端\LibrarySystem\obj\Debug\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\git_3170\3170PROJ\前端\LibrarySystem\obj\Debug\byn-ER\LibrarySystem.resources.dll
+C:\Users\Lenovo\Desktop\git_3170\3170PROJ\前端\LibrarySystem\obj\Debug\LibrarySystem.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\git_3170\3170PROJ\前端\LibrarySystem\obj\Debug\LibrarySystem.exe
+C:\Users\Lenovo\Desktop\git_3170\3170PROJ\前端\LibrarySystem\obj\Debug\LibrarySystem.pdb
